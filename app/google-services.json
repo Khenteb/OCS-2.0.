@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263465688887",
+    "project_id": "ocs-db-2322a",
+    "storage_bucket": "ocs-db-2322a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263465688887:android:9049071e2df1adfa0b44b2",
+        "android_client_info": {
+          "package_name": "com.example.ocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263465688887-48920o97iqhqj94ronisv5h95unk1nmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLqffnrSbAp2001oLfIoeLayYI6W2fJCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263465688887-48920o97iqhqj94ronisv5h95unk1nmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KhenTse/Desktop/OCS/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCS/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCS/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/card_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/category_background1.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/category_background4.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/light_orange_back.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/round_back_white10.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/round_back_white_100.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/round_border.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/solid_border.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/viewholder_cat.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/drawable/white_button.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_card_list.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_category_tab.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_home_page.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_intro.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_registration.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/activity_show_detail.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/content_main.xml" value="0.4" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/fragment_drinks.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/fragment_fast_food.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/fragment_four.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/fragment_snacks.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/fragment_vegetables.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/viewholder.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/viewholder_card.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/viewholder_cart.xml" value="0.2" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/viewholder_category.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/viewholder_daily_items.xml" value="0.22" />
+        <entry key="..\:/Users/KhenTse/Desktop/OCSs/app/src/main/res/layout/viewholder_tab.xml" value="0.22" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/drawable/round_back_white_100.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/drawable/round_border.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/drawable/solid_white_border.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/layout/activity_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/layout/activity_registration.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/user/OneDrive/Desktop/3Y_5th_Sem/CTE306-MAD/Mini_Prj/OCS/OCS-master/app/src/main/res/layout/edit_profile.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
